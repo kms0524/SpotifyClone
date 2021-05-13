@@ -1,4 +1,4 @@
-# Spotify 클로 앱
+# Spotify 클론 앱
 
 # 사용 API
 Spotify WEB API
