@@ -1,5 +1,5 @@
 # Spotify 클론 앱
-- Spotify WEB API르 이용하 Spotify 클론 앱 개발
+- Spotify WEB API를 이용한 Spotify 클론 앱 개발
 
 ## 이용 가능한 기능
 - 노래 재생 (Spotify 정책상 원곡 재생은 불가능해서 미리듣기만 재생됩니다) 
