@@ -14,4 +14,3 @@
 ## 사용 Framework
 - CocoaPods
 - SDWebImage
-- Google Firebase
